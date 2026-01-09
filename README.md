@@ -1,70 +1,69 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Harsh Kumar! 👋
 
-### 🚀 Full Stack Developer | Competitive Programmer | CS Undergrad
+### 🚀 Full Stack Developer | DevOps Enthusiast | CS Undergrad @ IIIT Bhagalpur
 
-I am a pre-final year Computer Science student passionate about building scalable web applications and solving complex algorithmic problems. Currently focusing on the **MERN Stack** and **System Design**.
+[cite_start]I am a Computer Science and Engineering student at **Indian Institute of Information Technology, Bhagalpur**[cite: 5, 10], passionate about building scalable web applications and cloud infrastructure. [cite_start]I am an **Oracle Cloud Infrastructure 2025 Certified DevOps Professional** [cite: 45] [cite_start]and a **Postman API Fundamentals Student Expert**[cite: 42].
 
-- 🔭 I’m currently working on a **Full Stack E-commerce Application**.
-- 🌱 I’m currently learning **Docker, Kubernetes, and Agentic AI**.
-- 👨‍💻 All of my projects are available at [Your Portfolio Website/LinkTree](https://...)
-- 💬 Ask me about **React, Node.js, C++, and DSA**.
-- 📫 How to reach me: **[Your Email Address]**
+- 🔭 I’m currently working on **Full Stack Web Development & DevOps**.
+- [cite_start]🏆 **Achievements:** National Semi-Finalist at **Flipkart GRiD 7.0 (2025)** [cite: 56] [cite_start]& Rank 9 in **SIH 2025 (Internal)**[cite: 57].
+- [cite_start]👨‍💻 All of my projects are available at [github.com/hrshk1](https://github.com/hrshk1)[cite: 8].
+- 💬 Ask me about **MERN Stack, OCI, and API Testing**.
+- [cite_start]📫 Reach me at: **hrsh.110070391@gmail.com** [cite: 7]
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Backend & Database**
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**Tools & DevOps**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Tools & Cloud**
+![Oracle](https://img.shields.io/badge/Oracle_Cloud-C74634?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🧩 Problem Solving & Algorithms
+### 📂 Featured Projects
 
-I actively solve problems on LeetCode and Codeforces to sharpen my logic.
-
-| Platform | Profile | Max Rating/Rank |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **LeetCode** | [@[YourUsername]](https://leetcode.com/u/[YourUsername]/) | Top [X]% |
-| **Codeforces** | [@[YourUsername]](https://codeforces.com/profile/[YourUsername]) | [Your Rank] |
+| **[Re-Read](https://github.com/hrshk1/Ecommerce-app)** | [cite_start]A B2C E-Commerce platform for buying/selling used books with secure JWT auth & Razorpay integration[cite: 30, 32, 33]. | React, Node, Express, MongoDB, Tailwind |
+| **[Office-Sync](https://github.com/hrshk1/Office-sync)** | [cite_start]Employee Management System with Role-Based Access Control and real-time task tracking for 200+ records[cite: 37, 40]. | React, Context API, Axios, Tailwind CSS |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrshk1&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshk1&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrshk1&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 ---
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/[YourLinkedInUsername]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:[YourEmailAddress]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-kumar-950823277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:hrsh.110070391@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
