@@ -56,3 +56,10 @@ I am a Computer Science and Engineering student at **Indian Institute of Informa
 <a href="mailto:hrsh.110070391@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hrshk1/hrshk1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
