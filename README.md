@@ -2,13 +2,13 @@
 
 ### 🚀 Full Stack Developer | DevOps Enthusiast | CS Undergrad @ IIIT Bhagalpur
 
-[cite_start]I am a Computer Science and Engineering student at **Indian Institute of Information Technology, Bhagalpur**[cite: 5, 10], passionate about building scalable web applications and cloud infrastructure. [cite_start]I am an **Oracle Cloud Infrastructure 2025 Certified DevOps Professional** [cite: 45] [cite_start]and a **Postman API Fundamentals Student Expert**[cite: 42].
+I am a Computer Science and Engineering student at **Indian Institute of Information Technology, Bhagalpur**, passionate about building scalable web applications and cloud infrastructure. I am an **Oracle Cloud Infrastructure 2025 Certified DevOps Professional** and a **Postman API Fundamentals Student Expert**.
 
 - 🔭 I’m currently working on **Full Stack Web Development & DevOps**.
-- [cite_start]🏆 **Achievements:** National Semi-Finalist at **Flipkart GRiD 7.0 (2025)** [cite: 56] [cite_start]& Rank 9 in **SIH 2025 (Internal)**[cite: 57].
-- [cite_start]👨‍💻 All of my projects are available at [github.com/hrshk1](https://github.com/hrshk1)[cite: 8].
+- 🏆 **Achievements:** National Semi-Finalist at **Flipkart GRiD 7.0 (2025)** & Rank 9 in **SIH 2025 (Internal)**.
+- 👨‍💻 All of my projects are available at [github.com/hrshk1](https://github.com/hrshk1).
 - 💬 Ask me about **MERN Stack, OCI, and API Testing**.
-- [cite_start]📫 Reach me at: **hrsh.110070391@gmail.com** [cite: 7]
+- 📫 Reach me at: **hrsh.110070391@gmail.com**
 
 ---
 
@@ -44,8 +44,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Re-Read](https://github.com/hrshk1/Ecommerce-app)** | [cite_start]A B2C E-Commerce platform for buying/selling used books with secure JWT auth & Razorpay integration[cite: 30, 32, 33]. | React, Node, Express, MongoDB, Tailwind |
-| **[Office-Sync](https://github.com/hrshk1/Office-sync)** | [cite_start]Employee Management System with Role-Based Access Control and real-time task tracking for 200+ records[cite: 37, 40]. | React, Context API, Axios, Tailwind CSS |
+| **[Re-Read](https://github.com/hrshk1/Ecommerce-app)** | A B2C E-Commerce platform for buying/selling used books with secure JWT auth & Razorpay integration. | React, Node, Express, MongoDB, Tailwind |
+| **[Office-Sync](https://github.com/hrshk1/Office-sync)** | Employee Management System with Role-Based Access Control and real-time task tracking for 200+ records. | React, Context API, Axios, Tailwind CSS |
 
 ---
 
