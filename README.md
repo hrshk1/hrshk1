@@ -49,14 +49,10 @@ I am a Computer Science and Engineering student at **Indian Institute of Informa
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hrshk1&show_icons=true&theme=radical&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshk1&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrshk1&theme=radical&hide_border=true)
-
----
-
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-950823277/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hrsh.110070391@gmail.com)
+<a href="https://www.linkedin.com/in/harsh-kumar-950823277/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:hrsh.110070391@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
