@@ -51,19 +51,12 @@ I am a Computer Science and Engineering student at **Indian Institute of Informa
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrshk1&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshk1&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrshk1&theme=radical&hide_border=true" alt="streak graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=hrshk1&show_icons=true&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshk1&layout=compact&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrshk1&theme=radical&hide_border=true)
 
 ---
 
 ### 🔗 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/harsh-kumar-950823277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:hrsh.110070391@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-950823277/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hrsh.110070391@gmail.com)
